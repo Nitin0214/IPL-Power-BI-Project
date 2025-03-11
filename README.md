@@ -23,6 +23,10 @@ Match Progression Trends: Study run progression to understand scoring patterns.
 Bowling Impact: Analyze runs conceded and wickets taken by top bowlers.
 Comparative Analysis: Compare teams and players for performance benchmarking.
 
+**Dashboard**
+![image](https://github.com/user-attachments/assets/d6cb5fec-d63b-4188-8539-4b9d883fb7a0)
+
+
 **📈 Key Performance Indicators (KPIs):**
 ✔️ Win Percentage = (Matches Won / Total Matches) * 100
 ✔️ Top Run Scorers (Jos Buttler - 456, KL Rahul - 351, etc.)
